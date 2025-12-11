@@ -24,6 +24,6 @@ A fully responsive Contact Form system that stores submissions directly into a G
 
 ## 🖥️ Live Demo
 
-[![Live](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://harshadteli.github.io/harshtech.org/)
+[![Live](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://tanvim094.github.io/contact-form/)
 
 ---
