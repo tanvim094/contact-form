@@ -22,6 +22,8 @@ A fully responsive Contact Form system that stores submissions directly into a G
 ├── style.css       # Shared Responsive Styles
 └── README.md       # Documentation
 
+```
+
 ## 🖥️ Live Demo
 
 [![Live](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://tanvim094.github.io/contact-form/)
